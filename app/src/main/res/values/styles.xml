@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="WaMainTabLayout" parent="@style/Widget.Design.TabLayout"> <item name="tabIndicatorColor">@color/color_100_white_00a884</item> <item name="tabIndicatorHeight">@dimen/dp_4</item> <item name="tabSelectedTextColor">@color/color_100_ffffff</item> <item name="tabTextAppearance">@style/WaMainTabTextAppearance</item> <item name="tabTextColor">@color/color_80_ffffff</item> </style>
+<style name="FontBlack" parent=""> <item name="android:includeFontPadding">false</item> <item name="android:fontFamily">@font/roboto_black</item> </style>
+<style name="FontBold" parent=""> <item name="android:includeFontPadding">false</item> <item name="android:fontFamily">@font/roboto_bold</item> </style>
+<style name="FontRegular" parent=""> <item name="android:includeFontPadding">false</item> <item name="android:fontFamily">@font/roboto_regular</item> </style>
+<style name="ExoStyledControls" parent=""> </style>
+<style name="EditCommonTheme" parent="@style/BaseAppTheme"> <item name="colorAccent">@color/color_100_1D32FE</item> </style>
+
+<style name="ContactMainTabLayout" parent="@style/Widget.Design.TabLayout"> <item name="tabIndicatorColor">@color/color_100_1D32FE</item> <item name="tabIndicatorHeight">@dimen/dp_4</item> <item name="tabSelectedTextColor">@color/color_100_black_white</item> <item name="tabTextAppearance">@style/ContactMainTabTextAppearance</item> <item name="tabTextColor">@color/color_78879d_white50</item> </style>
+<style name="FontSemiBold" parent=""> <item name="android:includeFontPadding">false</item> <item name="android:fontFamily">@font/roboto_medium</item> </style>
+<style name="MyCustomTabLayout" parent="@style/Widget.Design.TabLayout"> <item name="tabIndicatorColor">@color/color_1d32f_white</item> <item name="tabIndicatorHeight">@dimen/dp_4</item> <item name="tabSelectedTextColor">@color/color_100_black_white</item> <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item> <item name="tabTextColor">@color/color_78869d_white60</item> </style>
+<style name="AppTheme" parent="@style/BaseAppTheme"> </style>
+<style name="FastScrollerTextAppearance" parent="@style/TextAppearance.AppCompat"> <item name="android:textSize">10sp</item> <item name="android:textColor">@color/color_100_000000</item> <item name="android:gravity">center</item> <item name="android:fontFamily">@font/roboto_medium</item> </style>
+</resources>

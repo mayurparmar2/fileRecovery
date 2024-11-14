@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@color/color_100_black_white"
+    android:height="@dimen/dp_24"
+    android:width="@dimen/dp_24"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M18.733,7.5C19.985,7.5 21,6.493 21,5.25C21,4.007 19.985,3 18.733,3C17.481,3 16.467,4.007 16.467,5.25C16.467,6.493 17.481,7.5 18.733,7.5Z"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2.2667"
+        android:strokeLineJoin="round"
+        android:fillType="nonZero"/>
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M6.833,15.938C8.398,15.938 9.667,14.678 9.667,13.125C9.667,11.572 8.398,10.313 6.833,10.313C5.269,10.313 4,11.572 4,13.125C4,14.678 5.269,15.938 6.833,15.938Z"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2.2667"
+        android:strokeLineJoin="round"
+        android:fillType="nonZero"/>
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M16.467,7.261L9.292,11.576"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillType="evenOdd"/>
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M9.292,14.567L16.852,19.001"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillType="evenOdd"/>
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M18.167,17.625C19.106,17.625 19.867,18.381 19.867,19.313C19.867,20.244 19.106,21 18.167,21C17.228,21 16.467,20.244 16.467,19.313C16.467,18.381 17.228,17.625 18.167,17.625Z"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="2.2667"
+        android:strokeLineJoin="round"
+        android:fillType="nonZero"/>
+</vector>

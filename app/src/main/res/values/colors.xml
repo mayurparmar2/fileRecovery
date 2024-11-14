@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="color_100_262626">#262626</color>
+<color name="color_100_181818">#181818</color>
+<color name="color_100_ffffff">#ffffff</color>
+<color name="color_15_ffffff">#27ffffff</color>
+<color name="color_100_1D32FE">#1d32fe</color>
+<color name="color_black_e6e6e6">@color/color_100_000000</color>
+<color name="color_78869d_white100">@color/color_100_78869D</color>
+<color name="color_20_78869D">#3378869d</color>
+<color name="color_100_FE3B30">#fe3b30</color>
+<color name="color_100_FD5D1A">#fd5d1a</color>
+<color name="color_100_EBEFF5">#ebeff5</color>
+<color name="fb_black_white">@color/fb_black</color>
+<color name="color_10_000000">#1a000000</color>
+<color name="color_home_icon_setting_svg_fb">@color/color_100_000000</color>
+<color name="color_setting_arrow_drop_down_tint">@color/color_100_78869D</color>
+<color name="color_100_008069_00A884">@color/color_100_008069</color>
+<color name="color_100_white_black">@color/color_100_ffffff</color>
+<color name="color_100_black_white">@color/color_100_000000</color>
+<color name="color_100_E7FFDB_F1F2F6">@color/color_100_E7FFDB</color>
+<color name="color_100_1D32FE_white">@color/color_100_1D32FE</color>
+<color name="color_30_ffffff">#4dffffff</color>
+<color name="color_10_1D32FE_white12">@color/color_10_1D32FE</color>
+<color name="color_100_ff2400">#ffff2400</color>
+<color name="color_100_0085ff_04AAFF">@color/color_100_0085ff</color>
+<color name="color_100_1D32FE_0053FB">@color/color_100_1D32FE</color>
+<color name="color_100_000000">#000000</color>
+<color name="color_100_white_262626">@color/color_100_ffffff</color>
+<color name="ad_color_transparent">#00000000</color>
+<color name="color_70_000000">#b3000000</color>
+<color name="color_100_white_181818">@color/color_100_ffffff</color>
+<color name="color_20_000000">#33000000</color>
+<color name="color_20_78869D_white25">@color/color_20_78869D</color>
+<color name="color_100_78869D_70white">@color/color_100_78879D</color>
+<color name="color_100_white_00a884">@color/color_100_ffffff</color>
+<color name="color_15_78869D">#2778869d</color>
+<color name="color_splash_loading_bg">@color/color_15_000000</color>
+<color name="color_splash_loading_fg">@color/color_100_1D32FE</color>
+<color name="color_EBEFF5_262626">@color/color_100_EBEFF5</color>
+<color name="color_home_icon_feedback_svg_fb">@color/color_100_78869D</color>
+<color name="color_100_white_121212">@color/color_100_ffffff</color>
+<color name="color_100_78879D_60white">@color/color_100_78879D</color>
+<color name="color_100_78869D_50white">@color/color_100_78869D</color>
+<color name="color_50_4E66A9">#804e66a9</color>
+<color name="fb_white">#ffffff</color>
+<color name="color_100_78869D_40white">@color/color_100_78869D</color>
+<color name="color_95_000000">#f2000000</color>
+<color name="color_100_white_121B22">@color/color_100_ffffff</color>
+<color name="color_100_008069_1F2C34">@color/color_100_008069</color>
+<color name="color_80_ffffff">#ccffffff</color>
+<color name="mainColorPrimary">@color/color_100_EBEFF5</color>
+<color name="color_78869d_white60">@color/color_100_78869D</color>
+<color name="color_60_black_white">@color/color_60_000000</color>
+
+
+<color name="color_78879d_white60">@color/color_100_78879D</color>
+<color name="color_78879d_white50">@color/color_100_78879D</color>
+
+<color name="color_78869d_10_white_15">@color/color_10_78869D</color>
+<color name="color_50_000000">#80000000</color>
+
+
+<color name="color_30_black_white">@color/color_30_000000</color>
+<color name="color_100_FBFAF8_black">@color/color_100_FBFAF8</color>
+<color name="color_80_black_60_white">@color/color_80_000000</color>
+<color name="color_50_black_white">@color/color_50_000000</color>
+
+<color name="color_15_black_white">@color/color_15_000000</color>
+<color name="color_70_black_white">@color/color_70_000000</color>
+<color name="color_1d32f_white">@color/color_100_1D32FE</color>
+<color name="color_60_ffffff">#9affffff</color>
+<color name="color_100_9ACCFF">#ff9accff</color>
+<color name="color_78879d_white40">@color/color_100_78879D</color>
+
+
+
+
+<color name="color_80_black_white">@color/color_80_000000</color>
+<color name="color_97_000000">#f7000000</color>
+<color name="color_100_FFE9B3">#ffffe9b3</color>
+<color name="color_common_page_bg">@color/color_100_EBEFF5</color>
+<color name="color_100_F1392F">#fff1392f</color>
+<color name="color_home_feedback_txt">@color/color_100_78869D</color>
+<color name="fb_black">#000000</color>
+<color name="color_setting_sub_title_50">@color/color_100_78869D</color>
+<color name="color_EBEFF5_black">@color/color_100_EBEFF5</color>
+<color name="color_black_100_white_60">@color/color_100_000000</color>
+<color name="color_60_000000">#99000000</color>
+<color name="color_10_78879D">#1a78879d</color>
+<color name="color_100_0283FF_02B3FF">@color/color_100_0283FF</color>
+<color name="color_100_1D36FF_1D6AFF">@color/color_100_1D36FF</color>
+<color name="color_80_EAF4FF_20_104C8E">@color/color_80_EAF4FF</color>
+<color name="color_50_EAF4FF_7_white">@color/color_50_EAF4FF</color>
+<color name="colorPrimaryDark">@color/color_100_ffffff</color>
+<color name="color_100_BEE7FF">#ffbee7ff</color>
+<color name="color_100_D7D7D7F">#ffd7d7d7</color>
+<color name="color_100_0873F_FFED59">@color/color_100_0873FF</color>
+<color name="color_100_1C3AFF_FFBB53">@color/color_100_1C3AFF</color>
+<color name="color_100_FFD656">#ffffd656</color>
+<color name="color_100_FF8D02_FFFFFF">@color/color_100_FF8D02</color>
+<color name="color_100_FF6002_FFFFFF">@color/color_100_FF6002</color>
+<color name="color_100_FFD572">#ffffd572</color>
+<color name="color_100_047BFF_FFF1BD">@color/color_100_047BFF</color>
+<color name="color_100_1157FF_FDFFE6">@color/color_100_1157FF</color>
+<color name="color_100_1C38FF_FFF1BD">@color/color_100_1C38FF</color>
+<color name="color_100_FF7F2C">#ffff7f2c</color>
+<color name="color_100_FFDFA0">#ffffdfa0</color>
+<color name="color_100_FFB348">#ffffb348</color>
+<color name="color_100_EEE1BD">#eee1bd</color>
+<color name="color_100_F0D68F">#f0d68f</color>
+<color name="color_100_F2D37C">#f2d37c</color>
+<color name="color_100_0380FF_white">@color/color_100_0380FF</color>
+<color name="color_100_1C37FF_white">@color/color_100_1C37FF</color>
+<color name="color_100_0283FF_FFEE59">@color/color_100_0283FF</color>
+<color name="color_100_1C37FF_FFBA52">@color/color_100_1C37FF</color>
+<color name="color_100_black_60_white">@color/color_100_000000</color>
+<color name="color_100_D6E1F6_373737">@color/color_100_D6E1F6</color>
+<color name="color_100_FC7826">#fffc7826</color>
+<color name="color_100_f65b1a">#f65b1a</color>
+<color name="color_100_FBFAF8_121B22">@color/color_100_FBFAF8</color>
+<color name="color_100_EBF5F5_1F2C34">@color/color_100_EBF5F5</color>
+<color name="color_100_E0ECEC_2A3C47">@color/color_100_E0ECEC</color>
+<color name="fb_white_black">@color/fb_white</color>
+<color name="color_100_3B4DFF">#ff3b4dff</color>
+<color name="color_100_1e32f6">#1e32f6</color>
+
+<color name="color_25_15_white">@color/color_25_ffffff</color>
+</resources>

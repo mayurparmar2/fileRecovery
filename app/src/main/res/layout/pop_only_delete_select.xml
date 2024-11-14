@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/dp_4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingEnd="@dimen/dp_14">
+    <TextView
+        android:textSize="@dimen/sp_14"
+        android:textColor="@color/color_100_black_white"
+        android:gravity="center"
+        android:id="@+id/chat_pop_tv_only_delete_select"
+        android:background="@drawable/bg_chat_detail_only_delete_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/arg_res_0x7f110211"
+        android:fontFamily="@font/roboto_bold"
+        android:paddingEnd="@dimen/dp_12"
+        app:drawableStartCompat="@drawable/ic_chat_detail_only_delete_unselect"
+        app:drawableTint="@color/color_100_black_white"/>
+</LinearLayout>

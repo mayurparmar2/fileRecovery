@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/trackView"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true">
+        <ImageView
+            android:id="@+id/thumbIV"
+            android:paddingTop="@dimen/dp_4"
+            android:paddingBottom="@dimen/dp_4"
+            android:layout_width="@dimen/dp_16"
+            android:layout_height="@dimen/dp_34"
+            android:scaleType="fitXY"
+            android:paddingStart="@dimen/dp_4"/>
+    </LinearLayout>
+</merge>

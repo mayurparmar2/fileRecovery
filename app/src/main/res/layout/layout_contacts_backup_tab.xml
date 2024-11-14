@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="@dimen/sp_20"
+        android:textColor="@color/contacts_backup_tab_text_selector"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:id="@+id/tab_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        app:autoSizeTextType="uniform"/>
+</LinearLayout>
